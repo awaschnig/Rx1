@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="c22586d6-d73b-42ef-ac52-b83c282db775"
+mode="Global"
+rxversion="9.0">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="MyTest24">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="02cb3ff9-e13b-4409-a7e8-db39bdf84ab5"
+	name="MyTest24Repository"
+	relativepath="MyTest24Repository.rxrep"
+	rxversion="9.0">
+		<codegen
+		classname="MyTest24Repository"
+		namespace="MyTest24">
+		</codegen>
+		<rootfolder
+		id="5fe1c13d-6ee7-4d1d-9c94-bda149aef246"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="MyTest24Repository"
+id="02cb3ff9-e13b-4409-a7e8-db39bdf84ab5"
+rxversion="9.0">
+  <codegen
+  classname="MyTest24Repository"
+  namespace="MyTest24"/>
+  <rootfolder
+  name="Root"
+  id="5fe1c13d-6ee7-4d1d-9c94-bda149aef246"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
