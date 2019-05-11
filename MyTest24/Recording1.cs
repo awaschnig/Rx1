@@ -79,6 +79,9 @@ namespace MyTest24
 
             Init();
 
+            Report.Log(ReportLevel.Info, "Delay", "Waiting for 500ms.", new RecordItemIndex(0));
+            Delay.Duration(500, false);
+            
         }
 
 #region Image Feature Data

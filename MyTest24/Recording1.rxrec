@@ -26,6 +26,15 @@ rxversion="9.0">
 	<variables>
 	</variables>
 	<recorditems>
+		<explicitdelayitem
+		duration="500ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
 	</recorditems>
 	<repository
 	id="02cb3ff9-e13b-4409-a7e8-db39bdf84ab5"
