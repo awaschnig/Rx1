@@ -1,3 +1,2 @@
 language: csharp
-solution: RX1/MyTest24.sln
-mono: none
+solution: MyTest24.sln
