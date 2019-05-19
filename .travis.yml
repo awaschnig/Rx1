@@ -1,2 +1,3 @@
 language: csharp
 solution: MyTest24.rxsln
+mono: none
